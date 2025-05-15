@@ -1,0 +1,283 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                Welcome to Francinette, a 42 tester framework!                ║
+╚═══════════════════════╦══════════════════════════════╦═══════════════════════╝
+                        ║             libft            ║
+                        ╚══════════════════════════════╝
+⠋ Preparing framework⠙ Preparing framework✔ Preparing framework
+⠋ Executing: norminette⠙ Executing: norminette⠹ Executing: norminette⠸ Executing: norminette⠼ Executing: norminette⠴ Executing: norminette⠦ Executing: norminette✖ Executing: norminette
+libft.h: OK!
+ft_isalpha.c: OK!
+ft_isdigit.c: OK!
+ft_isalnum.c: OK!
+ft_isascii.c: OK!
+ft_isprint.c: OK!
+ft_strlen.c: OK!
+ft_memset.c: OK!
+ft_bzero.c: OK!
+ft_memcpy.c: OK!
+ft_memmove.c: OK!
+ft_strlcpy.c: OK!
+ft_strlcat.c: OK!
+ft_strchr.c: OK!
+ft_strncmp.c: OK!
+ft_memchr.c: OK!
+ft_memcmp.c: OK!
+ft_strnstr.c: OK!
+ft_atoi.c: OK!
+ft_calloc.c: Error!
+Error: FORBIDDEN_CHAR_NAME  (line:  20, col:  21):	user defined identifiers should contain only lowercase characters, digits or '_'
+ft_strdup.c: OK!
+ft_substr.c: OK!
+ft_toupper.c: OK!
+ft_tolower.c: OK!
+ft_strrchr.c: OK!
+ft_strmapi.c: OK!
+ft_striteri.c: OK!
+ft_putstr_fd.c: OK!
+ft_putnbr_fd.c: OK!
+ft_strjoin.c: OK!
+ft_strtrim.c: OK!
+ft_split.c: OK!
+ft_itoa.c: OK!
+ft_putchar_fd.c: OK!
+ft_putendl_fd.c: OK!
+
+⠋ Executing: make fclean all (no bonus)⠙ Executing: make fclean all (no bonus)⠹ Executing: make fclean all (no bonus)⠸ Executing: make fclean all (no bonus)⠼ Executing: make fclean all (no bonus)⠴ Executing: make fclean all (no bonus)⠦ Executing: make fclean all (no bonus)⠧ Executing: make fclean all (no bonus)⠇ Executing: make fclean all (no bonus)⠏ Executing: make fclean all (no bonus)⠋ Executing: make fclean all (no bonus)⠙ Executing: make fclean all (no bonus)✔ Executing: make fclean all (no bonus)
+ℹ Executing: libft-war-machine (https://github.com/y3ll0w42/libft-war-machine)
+[1m[34m--------------------------------------------------------------------------------
+|[32GCOMPILING LIBFT[80G|
+--------------------------------------------------------------------------------
+[0mrules:
+all[12G$(NAME)[26Gfclean[39Gre[52Gclean[64Gbonus[74Glibft.a
+[32mok[0m[12G[32mok[0m[26G[32mok[0m[39G[32mok[0m[52G[32mok[0m[64G[31mmissing[0m[74G[32mfound
+[0m
+[1m[34mFUNCTION[18GTESTS[39GRESULT
+[0m[36mft_isalpha[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_isdigit[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_isalnum[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_isascii[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_isprint[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_strlen[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_memset[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_bzero[18G[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_memcpy[18G[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_memmove[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_strlcpy[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_strlcat[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_toupper[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_tolower[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_strchr[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_strrchr[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[31m✗[0m[32m✓[0m[32m✓[0m[31m✗[0m[39G[31mKO
+[0m[36mft_strncmp[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[31m✗[0m[31m✗[0m[31m✗[0m[32m✓[0m[39G[31mKO
+[0m[36mft_memchr[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[31m✗[0m[32m✓[0m[39G[31mKO
+[0m[36mft_memcmp[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_strnstr[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_atoi[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_calloc[18G[32m✓[0m[39G[32mOK
+[0m[36mft_strdup[18G[32m✓[0m[39G[32mOK
+[0m[36mft_substr[18G[31mcompil. failed[0m[39G[31mKO
+[0m[36mft_strjoin[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_split[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_itoa[18G[31m✗[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[31mKO
+[0m[36mft_strmapi[18G[32m✓[0m[39G[32mOK
+[0m[36mft_striteri[18G[32m✓[0m[39G[32mOK
+[0m[36mft_putchar_fd[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_putstr_fd[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_putendl_fd[18G[31m✗[0m[32m✓[0m[31m✗[0m[32m✓[0m[39G[31mKO
+[0m[36mft_putnbr_fd[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m
+Abort: A  Bus error: B  Segmentation fault: S  Timeout: T
+
+More information in: /home/yseto/francinette/temp/libft/war-machine/deepthought
+
+Errors in strrchr: /home/yseto/francinette/temp/libft/war-machine/tests/Part1_functions/ft_strrchr
+Test 5:
+    if (!(str = ft_strrchr(str2, 's')))
+        ft_print_result("NULL");
+    else
+        ft_print_result(str);
+Expected (cat -e test05.output):
+NULL
+Your result (cat -e user_output_test05):
+M-^?^?
+Test 8:
+    if (!(str = ft_strrchr(str2 + 2, 'b')))
+        ft_print_result("NULL");
+    else
+        ft_print_result(str);
+Expected (cat -e test08.output):
+NULL
+Your result (cat -e user_output_test08):
+bonjour
+Errors in strncmp: /home/yseto/francinette/temp/libft/war-machine/tests/Part1_functions/ft_strncmp
+Test 8:
+    ft_print_result(ft_strncmp("abcdefgh", "abcdwxyz", 4));
+Expected (cat -e test08.output):
+0
+Your result (cat -e user_output_test08):
+-1
+Test 9:
+    ft_print_result(ft_strncmp("zyxbcdefgh", "abcdwxyz", 0));
+Expected (cat -e test09.output):
+0
+Your result (cat -e user_output_test09):
+1
+Test 10:
+    ft_print_result(ft_strncmp("abcdefgh", "", 0));
+Expected (cat -e test10.output):
+0
+Your result (cat -e user_output_test10):
+1
+Errors in memchr: /home/yseto/francinette/temp/libft/war-machine/tests/Part1_functions/ft_memchr
+Test 5:
+    str = ft_memchr("bonjour", 's', 7);
+    if (!str)
+        ft_print_result("NULL");
+    else
+        ft_print_result(str);
+Expected (cat -e test05.output):
+NULL
+Your result (cat -e user_output_test05):
+
+Errors in itoa: /home/yseto/francinette/temp/libft/war-machine/tests/Part2_functions/ft_itoa
+...
+
+File too large. To see full report open: /home/yseto/francinette/temp/libft/war-machine/errors.log
+
+⠋ Compiling tests: libftTester (https://github.com/Tripo (...)⠙ Compiling tests: libftTester (https://github.com/Tripo (...)⠹ Compiling tests: libftTester (https://github.com/Tripo (...)⠸ Compiling tests: libftTester (https://github.com/Tripo (...)⠼ Compiling tests: libftTester (https://github.com/Tripo (...)⠴ Compiling tests: libftTester (https://github.com/Tripo (...)⠦ Compiling tests: libftTester (https://github.com/Tripo (...)⠧ Compiling tests: libftTester (https://github.com/Tripo (...)⠇ Compiling tests: libftTester (https://github.com/Tripo (...)⠏ Compiling tests: libftTester (https://github.com/Tripo (...)⠋ Compiling tests: libftTester (https://github.com/Tripo (...)⠙ Compiling tests: libftTester (https://github.com/Tripo (...)⠹ Compiling tests: libftTester (https://github.com/Tripo (...)⠸ Compiling tests: libftTester (https://github.com/Tripo (...)⠼ Compiling tests: libftTester (https://github.com/Tripo (...)⠴ Compiling tests: libftTester (https://github.com/Tripo (...)⠦ Compiling tests: libftTester (https://github.com/Tripo (...)⠧ Compiling tests: libftTester (https://github.com/Tripo (...)⠇ Compiling tests: libftTester (https://github.com/Tripo (...)⠏ Compiling tests: libftTester (https://github.com/Tripo (...)⠋ Compiling tests: libftTester (https://github.com/Tripo (...)⠙ Compiling tests: libftTester (https://github.com/Tripo (...)⠹ Compiling tests: libftTester (https://github.com/Tripo (...)⠸ Compiling tests: libftTester (https://github.com/Tripo (...)⠼ Compiling tests: libftTester (https://github.com/Tripo (...)⠴ Compiling tests: libftTester (https://github.com/Tripo (...)⠦ Compiling tests: libftTester (https://github.com/Tripo (...)⠧ Compiling tests: libftTester (https://github.com/Tripo (...)⠇ Compiling tests: libftTester (https://github.com/Tripo (...)⠏ Compiling tests: libftTester (https://github.com/Tripo (...)⠋ Compiling tests: libftTester (https://github.com/Tripo (...)⠙ Compiling tests: libftTester (https://github.com/Tripo (...)⠹ Compiling tests: libftTester (https://github.com/Tripo (...)⠸ Compiling tests: libftTester (https://github.com/Tripo (...)⠼ Compiling tests: libftTester (https://github.com/Tripo (...)⠴ Compiling tests: libftTester (https://github.com/Tripo (...)⠦ Compiling tests: libftTester (https://github.com/Tripo (...)⠧ Compiling tests: libftTester (https://github.com/Tripo (...)⠇ Compiling tests: libftTester (https://github.com/Tripo (...)⠏ Compiling tests: libftTester (https://github.com/Tripo (...)⠋ Compiling tests: libftTester (https://github.com/Tripo (...)⠙ Compiling tests: libftTester (https://github.com/Tripo (...)⠹ Compiling tests: libftTester (https://github.com/Tripo (...)⠸ Compiling tests: libftTester (https://github.com/Tripo (...)⠼ Compiling tests: libftTester (https://github.com/Tripo (...)⠴ Compiling tests: libftTester (https://github.com/Tripo (...)⠦ Compiling tests: libftTester (https://github.com/Tripo (...)⠧ Compiling tests: libftTester (https://github.com/Tripo (...)⠇ Compiling tests: libftTester (https://github.com/Tripo (...)⠏ Compiling tests: libftTester (https://github.com/Tripo (...)⠋ Compiling tests: libftTester (https://github.com/Tripo (...)⠙ Compiling tests: libftTester (https://github.com/Tripo (...)⠹ Compiling tests: libftTester (https://github.com/Tripo (...)⠸ Compiling tests: libftTester (https://github.com/Tripo (...)⠼ Compiling tests: libftTester (https://github.com/Tripo (...)⠴ Compiling tests: libftTester (https://github.com/Tripo (...)⠦ Compiling tests: libftTester (https://github.com/Tripo (...)⠧ Compiling tests: libftTester (https://github.com/Tripo (...)⠇ Compiling tests: libftTester (https://github.com/Tripo (...)⠏ Compiling tests: libftTester (https://github.com/Tripo (...)⠋ Compiling tests: libftTester (https://github.com/Tripo (...)⠙ Compiling tests: libftTester (https://github.com/Tripo (...)⠹ Compiling tests: libftTester (https://github.com/Tripo (...)⠸ Compiling tests: libftTester (https://github.com/Tripo (...)⠼ Compiling tests: libftTester (https://github.com/Tripo (...)⠴ Compiling tests: libftTester (https://github.com/Tripo (...)⠦ Compiling tests: libftTester (https://github.com/Tripo (...)⠧ Compiling tests: libftTester (https://github.com/Tripo (...)⠇ Compiling tests: libftTester (https://github.com/Tripo (...)⠏ Compiling tests: libftTester (https://github.com/Tripo (...)⠋ Compiling tests: libftTester (https://github.com/Tripo (...)⠙ Compiling tests: libftTester (https://github.com/Tripo (...)⠹ Compiling tests: libftTester (https://github.com/Tripo (...)⠸ Compiling tests: libftTester (https://github.com/Tripo (...)⠼ Compiling tests: libftTester (https://github.com/Tripo (...)⠴ Compiling tests: libftTester (https://github.com/Tripo (...)⠦ Compiling tests: libftTester (https://github.com/Tripo (...)⠧ Compiling tests: libftTester (https://github.com/Tripo (...)⠇ Compiling tests: libftTester (https://github.com/Tripo (...)⠏ Compiling tests: libftTester (https://github.com/Tripo (...)⠋ Compiling tests: libftTester (https://github.com/Tripo (...)⠙ Compiling tests: libftTester (https://github.com/Tripo (...)⠹ Compiling tests: libftTester (https://github.com/Tripo (...)⠸ Compiling tests: libftTester (https://github.com/Tripo (...)⠼ Compiling tests: libftTester (https://github.com/Tripo (...)⠴ Compiling tests: libftTester (https://github.com/Tripo (...)⠦ Compiling tests: libftTester (https://github.com/Tripo (...)⠧ Compiling tests: libftTester (https://github.com/Tripo (...)⠇ Compiling tests: libftTester (https://github.com/Tripo (...)⠏ Compiling tests: libftTester (https://github.com/Tripo (...)⠋ Compiling tests: libftTester (https://github.com/Tripo (...)⠙ Compiling tests: libftTester (https://github.com/Tripo (...)⠹ Compiling tests: libftTester (https://github.com/Tripo (...)⠸ Compiling tests: libftTester (https://github.com/Tripo (...)⠼ Compiling tests: libftTester (https://github.com/Tripo (...)⠴ Compiling tests: libftTester (https://github.com/Tripo (...)⠦ Compiling tests: libftTester (https://github.com/Tripo (...)⠧ Compiling tests: libftTester (https://github.com/Tripo (...)⠇ Compiling tests: libftTester (https://github.com/Tripo (...)⠏ Compiling tests: libftTester (https://github.com/Tripo (...)⠋ Compiling tests: libftTester (https://github.com/Tripo (...)⠙ Compiling tests: libftTester (https://github.com/Tripo (...)⠹ Compiling tests: libftTester (https://github.com/Tripo (...)⠸ Compiling tests: libftTester (https://github.com/Tripo (...)⠼ Compiling tests: libftTester (https://github.com/Tripo (...)⠴ Compiling tests: libftTester (https://github.com/Tripo (...)⠦ Compiling tests: libftTester (https://github.com/Tripo (...)⠧ Compiling tests: libftTester (https://github.com/Tripo (...)⠇ Compiling tests: libftTester (https://github.com/Tripo (...)⠏ Compiling tests: libftTester (https://github.com/Tripo (...)⠋ Compiling tests: libftTester (https://github.com/Tripo (...)⠙ Compiling tests: libftTester (https://github.com/Tripo (...)⠹ Compiling tests: libftTester (https://github.com/Tripo (...)⠸ Compiling tests: libftTester (https://github.com/Tripo (...)⠼ Compiling tests: libftTester (https://github.com/Tripo (...)⠴ Compiling tests: libftTester (https://github.com/Tripo (...)⠦ Compiling tests: libftTester (https://github.com/Tripo (...)⠧ Compiling tests: libftTester (https://github.com/Tripo (...)⠇ Compiling tests: libftTester (https://github.com/Tripo (...)⠏ Compiling tests: libftTester (https://github.com/Tripo (...)⠋ Compiling tests: libftTester (https://github.com/Tripo (...)⠙ Compiling tests: libftTester (https://github.com/Tripo (...)⠹ Compiling tests: libftTester (https://github.com/Tripo (...)⠸ Compiling tests: libftTester (https://github.com/Tripo (...)⠼ Compiling tests: libftTester (https://github.com/Tripo (...)⠴ Compiling tests: libftTester (https://github.com/Tripo (...)⠦ Compiling tests: libftTester (https://github.com/Tripo (...)⠧ Compiling tests: libftTester (https://github.com/Tripo (...)⠇ Compiling tests: libftTester (https://github.com/Tripo (...)⠏ Compiling tests: libftTester (https://github.com/Tripo (...)⠋ Compiling tests: libftTester (https://github.com/Tripo (...)⠙ Compiling tests: libftTester (https://github.com/Tripo (...)⠹ Compiling tests: libftTester (https://github.com/Tripo (...)⠸ Compiling tests: libftTester (https://github.com/Tripo (...)⠼ Compiling tests: libftTester (https://github.com/Tripo (...)⠴ Compiling tests: libftTester (https://github.com/Tripo (...)⠦ Compiling tests: libftTester (https://github.com/Tripo (...)⠧ Compiling tests: libftTester (https://github.com/Tripo (...)⠇ Compiling tests: libftTester (https://github.com/Tripo (...)⠏ Compiling tests: libftTester (https://github.com/Tripo (...)⠋ Compiling tests: libftTester (https://github.com/Tripo (...)⠙ Compiling tests: libftTester (https://github.com/Tripo (...)⠹ Compiling tests: libftTester (https://github.com/Tripo (...)✖ Compiling tests: libftTester (https://github.com/Tripouille/libftTester)
+/usr/bin/ld: ft_substr_test.o: in function `main':
+ft_substr_test.cpp:(.text+0x124): undefined reference to `ft_substr'
+/usr/bin/ld: ft_substr_test.cpp:(.text+0x18a): undefined reference to `ft_substr'
+/usr/bin/ld: ft_substr_test.cpp:(.text+0x1f0): undefined reference to `ft_substr'
+/usr/bin/ld: ft_substr_test.cpp:(.text+0x269): undefined reference to `ft_substr'
+/usr/bin/ld: ft_substr_test.cpp:(.text+0x2ee): undefined reference to `ft_substr'
+/usr/bin/ld: ft_substr_test.o:ft_substr_test.cpp:(.text+0x35c): more undefined references to `ft_substr' follow
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+Problem creating executable for substr
+⠋ Compiling tests: libft-unit-test (https://github.com/a (...)⠙ Compiling tests: libft-unit-test (https://github.com/a (...)⠹ Compiling tests: libft-unit-test (https://github.com/a (...)⠸ Compiling tests: libft-unit-test (https://github.com/a (...)⠼ Compiling tests: libft-unit-test (https://github.com/a (...)⠴ Compiling tests: libft-unit-test (https://github.com/a (...)⠦ Compiling tests: libft-unit-test (https://github.com/a (...)⠧ Compiling tests: libft-unit-test (https://github.com/a (...)⠇ Compiling tests: libft-unit-test (https://github.com/a (...)⠏ Compiling tests: libft-unit-test (https://github.com/a (...)⠋ Compiling tests: libft-unit-test (https://github.com/a (...)⠙ Compiling tests: libft-unit-test (https://github.com/a (...)⠹ Compiling tests: libft-unit-test (https://github.com/a (...)⠸ Compiling tests: libft-unit-test (https://github.com/a (...)⠼ Compiling tests: libft-unit-test (https://github.com/a (...)⠴ Compiling tests: libft-unit-test (https://github.com/a (...)⠦ Compiling tests: libft-unit-test (https://github.com/a (...)⠧ Compiling tests: libft-unit-test (https://github.com/a (...)⠇ Compiling tests: libft-unit-test (https://github.com/a (...)⠏ Compiling tests: libft-unit-test (https://github.com/a (...)⠋ Compiling tests: libft-unit-test (https://github.com/a (...)⠙ Compiling tests: libft-unit-test (https://github.com/a (...)⠹ Compiling tests: libft-unit-test (https://github.com/a (...)⠸ Compiling tests: libft-unit-test (https://github.com/a (...)⠼ Compiling tests: libft-unit-test (https://github.com/a (...)⠴ Compiling tests: libft-unit-test (https://github.com/a (...)⠦ Compiling tests: libft-unit-test (https://github.com/a (...)⠧ Compiling tests: libft-unit-test (https://github.com/a (...)⠇ Compiling tests: libft-unit-test (https://github.com/a (...)⠏ Compiling tests: libft-unit-test (https://github.com/a (...)⠋ Compiling tests: libft-unit-test (https://github.com/a (...)⠙ Compiling tests: libft-unit-test (https://github.com/a (...)⠹ Compiling tests: libft-unit-test (https://github.com/a (...)⠸ Compiling tests: libft-unit-test (https://github.com/a (...)⠼ Compiling tests: libft-unit-test (https://github.com/a (...)⠴ Compiling tests: libft-unit-test (https://github.com/a (...)⠦ Compiling tests: libft-unit-test (https://github.com/a (...)⠧ Compiling tests: libft-unit-test (https://github.com/a (...)⠇ Compiling tests: libft-unit-test (https://github.com/a (...)⠏ Compiling tests: libft-unit-test (https://github.com/a (...)⠋ Compiling tests: libft-unit-test (https://github.com/a (...)⠙ Compiling tests: libft-unit-test (https://github.com/a (...)⠹ Compiling tests: libft-unit-test (https://github.com/a (...)⠸ Compiling tests: libft-unit-test (https://github.com/a (...)⠼ Compiling tests: libft-unit-test (https://github.com/a (...)⠴ Compiling tests: libft-unit-test (https://github.com/a (...)⠦ Compiling tests: libft-unit-test (https://github.com/a (...)⠧ Compiling tests: libft-unit-test (https://github.com/a (...)⠇ Compiling tests: libft-unit-test (https://github.com/a (...)⠏ Compiling tests: libft-unit-test (https://github.com/a (...)⠋ Compiling tests: libft-unit-test (https://github.com/a (...)⠙ Compiling tests: libft-unit-test (https://github.com/a (...)⠹ Compiling tests: libft-unit-test (https://github.com/a (...)⠸ Compiling tests: libft-unit-test (https://github.com/a (...)⠼ Compiling tests: libft-unit-test (https://github.com/a (...)⠴ Compiling tests: libft-unit-test (https://github.com/a (...)⠦ Compiling tests: libft-unit-test (https://github.com/a (...)⠧ Compiling tests: libft-unit-test (https://github.com/a (...)⠇ Compiling tests: libft-unit-test (https://github.com/a (...)⠏ Compiling tests: libft-unit-test (https://github.com/a (...)⠋ Compiling tests: libft-unit-test (https://github.com/a (...)⠙ Compiling tests: libft-unit-test (https://github.com/a (...)⠹ Compiling tests: libft-unit-test (https://github.com/a (...)⠸ Compiling tests: libft-unit-test (https://github.com/a (...)⠼ Compiling tests: libft-unit-test (https://github.com/a (...)⠴ Compiling tests: libft-unit-test (https://github.com/a (...)⠦ Compiling tests: libft-unit-test (https://github.com/a (...)⠧ Compiling tests: libft-unit-test (https://github.com/a (...)⠇ Compiling tests: libft-unit-test (https://github.com/a (...)⠏ Compiling tests: libft-unit-test (https://github.com/a (...)⠋ Compiling tests: libft-unit-test (https://github.com/a (...)⠙ Compiling tests: libft-unit-test (https://github.com/a (...)⠹ Compiling tests: libft-unit-test (https://github.com/a (...)⠸ Compiling tests: libft-unit-test (https://github.com/a (...)⠼ Compiling tests: libft-unit-test (https://github.com/a (...)⠴ Compiling tests: libft-unit-test (https://github.com/a (...)⠦ Compiling tests: libft-unit-test (https://github.com/a (...)⠧ Compiling tests: libft-unit-test (https://github.com/a (...)⠇ Compiling tests: libft-unit-test (https://github.com/a (...)⠏ Compiling tests: libft-unit-test (https://github.com/a (...)✔ Compiling tests: libft-unit-test (https://github.com/alelievr/libft-unit-test)
+ℹ Testing:
+ft_isalpha      : [OK] 
+ft_isdigit      : [OK] 
+ft_isalnum      : [OK] 
+ft_isascii      : [OK] 
+ft_isprint      : [OK] 
+ft_strlen       : [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] 
+ft_memset       : [OK] [OK] [OK] [OK] [OK] [OK] [OK] 
+ft_bzero        : [OK] [OK] [OK] [OK] 
+ft_memcpy       : [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [CRASH] 
+[crash]: your memcpy does not behave well with NULL as both params with size
+
+ft_memmove      : [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] 
+ft_strlcpy      : [OK] [OK] [OK] [OK] [OK] [OK] [OK] 
+ft_strlcat      : [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] 
+ft_toupper      : [OK] 
+ft_tolower      : [OK] 
+ft_strchr       : [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] 
+ft_strrchr      : [OK] [OK] [OK] [CRASH] [OK] [FAILED] [CRASH] [OK] 
+[crash]: your strrchr does not work with unicode
+[fail]: your strrchr does not work with empty string
+[crash]: your strrchr crash because it read too many bytes or attempt to write on s !
+
+ft_strncmp      : [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [FAILED] [OK] [OK] [OK] 
+[fail]: your strncmp does not work when s1 is contained in s2
+
+ft_memchr       : [OK] [OK] [OK] [FAILED] [OK] [OK] [OK] [OK] 
+[fail]: your memchr does not work
+
+ft_memcmp       : [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] 
+ft_strnstr      : [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] 
+ft_atoi         : [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] 
+ft_calloc       : [OK] [OK] [OK] [OK] [OK] 
+ft_strdup       : [OK] [OK] [OK] [OK] [OK] [OK] [OK] 
+ft_substr       : [MISSING]
+ft_strjoin      : [OK] [OK] [OK] [OK] [OK] 
+ft_split        : [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] [OK] 
+ft_itoa         : [OK] [OK] [OK] [OK] [OK] [OK] [OK] [KO] [OK] 
+[KO]: your itoa does not allocate the good size so the \0 test may be false
+
+ft_strmapi      : [OK] [OK] [OK] [OK] [OK] 
+ft_striteri     : [OK] [OK] 
+ft_putchar_fd   : [OK] [OK]  
+ft_putstr_fd    : [OK]  [OK] 
+ 
+ft_putendl_fd   : [FAILED] 
+ [FAILED] 
+[fail]: your putendl_fd does not work with basic input
+[fail]: your putendl_fd does not work with non ascii chars
+
+ft_putnbr_fd    : [OK] [OK] [OK] [OK] [CRASH] 
+[crash]: your putnbr_fd allocate memory, wtf ???
+
+
+[crash]: your memcpy does not behave well with NULL as both params with size
+ Test code:
+ 	ft_memcpy(((void*)0), ((void*)0), 3);
+ 
+ 
+ [crash]: your strrchr does not work with unicode
+ Test code:
+ 	char *src = "\xc4\xab\xc5\x93\xcb\x99\xcb\x80\xcb\x98\xc2\xaf\xcb\x87\xc2\xb8\xc2\xaf.\xc5\x93\xc2\xab\xe2\x80\x98\xe2\x80\x93\xe2\x80\x93\xe2\x84\xa2\xc2\xaa\xe2\x80\xa2\xc2\xa1\xc2\xb6\xc2\xa2\xcb\x9c\xcb\x80";
+ 	char *d1 = strrchr(src, L'\xe2\x80\x93');
+ 	char *d2 = ft_strrchr(src, L'\xe2\x80\x93');
+ 
+ 	if (d1 == d2)
+ 		exit(TEST_SUCCESS);
+ 	exit(TEST_FAILED);
+ 
+ 
+ [fail]: your strrchr does not work with empty string
+ Test code:
+ 	char *src = "\0";
+ 	char *d1 = strrchr(src, 'a');
+ 	char *d2 = ft_strrchr(src, 'a');
+ 
+ 	if (d1 == d2)
+ 		exit(TEST_SUCCESS);
+ 	exit(TEST_FAILED);
+ 
+ Diffs:
+      strrchr: |(null)|
+   ft_strrchr: |ame); for (register int __i = 0; __i < 20; ++__i) dprintf(g_diff_fd, "\\x%-2hhx ", buff2[__i]); dprintf(g_diff_fd, "|");; exit(TEST_FAILED);|
+ 
+ [crash]: your strrchr crash because it read too many bytes or attempt to write on s !
+ Test code:
+ 	char *src = electric_alloc(10);
+ 
+ 	strcpy(src, "123456789");
+ 	ft_strrchr(src, 'a');
+ 	src = electric_alloc_rev(10);
+ 	strcpy(src, "123456789");
+ 	ft_strrchr(src, 'a');
+ 	exit(TEST_SUCCESS);
+ 
+ 
+ [fail]: your strncmp does not work when s1 is contained in s2
+ Test code:
+ 	char *big = "abcdef";
+ 	char *little = "abcdefghijklmnop";
+ 	size_t size = 6;
+ 	int i1 = ((strncmp(big, little, size) > 0) ? 1 : ((strncmp(big, little, size) < 0) ? -1 : 0));
+ 	int i2 = ((ft_strncmp(big, little, size) > 0) ? 1 : ((ft_strncmp(big, little, size) < 0) ? -1 : 0));
+ 
+...
+
+File too large. To see full report open: /home/yseto/francinette/temp/libft/alelievr/result.log
+
+⠋ Compiling tests: fsoares (my own)⠙ Compiling tests: fsoares (my own)⠹ Compiling tests: fsoares (my own)⠸ Compiling tests: fsoares (my own)⠼ Compiling tests: fsoares (my own)⠴ Compiling tests: fsoares (my own)⠦ Compiling tests: fsoares (my own)⠧ Compiling tests: fsoares (my own)⠇ Compiling tests: fsoares (my own)⠏ Compiling tests: fsoares (my own)⠋ Compiling tests: fsoares (my own)⠙ Compiling tests: fsoares (my own)⠹ Compiling tests: fsoares (my own)⠸ Compiling tests: fsoares (my own)⠼ Compiling tests: fsoares (my own)⠴ Compiling tests: fsoares (my own)⠦ Compiling tests: fsoares (my own)⠧ Compiling tests: fsoares (my own)⠇ Compiling tests: fsoares (my own)⠏ Compiling tests: fsoares (my own)⠋ Compiling tests: fsoares (my own)⠙ Compiling tests: fsoares (my own)⠹ Compiling tests: fsoares (my own)⠸ Compiling tests: fsoares (my own)⠼ Compiling tests: fsoares (my own)⠴ Compiling tests: fsoares (my own)⠦ Compiling tests: fsoares (my own)⠧ Compiling tests: fsoares (my own)⠇ Compiling tests: fsoares (my own)⠏ Compiling tests: fsoares (my own)⠋ Compiling tests: fsoares (my own)⠙ Compiling tests: fsoares (my own)⠹ Compiling tests: fsoares (my own)⠸ Compiling tests: fsoares (my own)⠼ Compiling tests: fsoares (my own)⠴ Compiling tests: fsoares (my own)⠦ Compiling tests: fsoares (my own)⠧ Compiling tests: fsoares (my own)⠇ Compiling tests: fsoares (my own)⠏ Compiling tests: fsoares (my own)⠋ Compiling tests: fsoares (my own)⠙ Compiling tests: fsoares (my own)⠹ Compiling tests: fsoares (my own)⠸ Compiling tests: fsoares (my own)⠼ Compiling tests: fsoares (my own)⠴ Compiling tests: fsoares (my own)⠦ Compiling tests: fsoares (my own)⠧ Compiling tests: fsoares (my own)⠇ Compiling tests: fsoares (my own)⠏ Compiling tests: fsoares (my own)⠋ Compiling tests: fsoares (my own)⠙ Compiling tests: fsoares (my own)⠹ Compiling tests: fsoares (my own)⠸ Compiling tests: fsoares (my own)⠼ Compiling tests: fsoares (my own)⠴ Compiling tests: fsoares (my own)⠦ Compiling tests: fsoares (my own)⠧ Compiling tests: fsoares (my own)⠇ Compiling tests: fsoares (my own)⠏ Compiling tests: fsoares (my own)⠋ Compiling tests: fsoares (my own)⠙ Compiling tests: fsoares (my own)⠹ Compiling tests: fsoares (my own)✖ Compiling tests: fsoares (my own)
+/usr/bin/ld: /tmp/ccP75pWp.o: in function `test_single_substr':
+/home/yseto/francinette/temp/libft/fsoares/test_substr.c:7: undefined reference to `ft_substr'
+collect2: error: ld returned 1 exit status
+
+Problem compiling the tests
+
+Summary: no bonus
+
+Norminette Errors: ft_calloc.c
+
+Missing functions: strtrim
+
+Failed tests: memcpy, substr, libftTester, strncmp, strrchr, putnbr_fd, fsoares, memchr, putendl_fd, itoa
+
+Passed tests: isalpha, isdigit, isalnum, isascii, isprint, strlen, memset, bzero, memmove, strlcpy, strlcat, toupper, tolower, strchr, memcmp, strnstr, atoi, calloc, strdup, strjoin, split, strmapi, striteri, putchar_fd, putstr_fd
+

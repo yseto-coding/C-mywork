@@ -1,0 +1,63 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                Welcome to Francinette, a 42 tester framework!                ║
+╚═══════════════════════╦══════════════════════════════╦═══════════════════════╝
+                        ║             libft            ║
+                        ╚══════════════════════════════╝
+⠋ Preparing framework⠙ Preparing framework⠹ Preparing framework✔ Preparing framework
+⠋ Executing: norminette⠙ Executing: norminette⠹ Executing: norminette⠸ Executing: norminette⠼ Executing: norminette⠴ Executing: norminette✖ Executing: norminette
+libft.h: OK!
+ft_isalpha.c: OK!
+ft_isdigit.c: OK!
+ft_isalnum.c: OK!
+ft_isascii.c: OK!
+ft_isprint.c: OK!
+ft_strlen.c: OK!
+ft_memset.c: OK!
+ft_bzero.c: OK!
+ft_memcpy.c: OK!
+ft_memmove.c: OK!
+ft_strlcpy.c: OK!
+ft_strlcat.c: OK!
+ft_strchr.c: OK!
+ft_strncmp.c: OK!
+ft_memchr.c: OK!
+ft_memcmp.c: OK!
+ft_strnstr.c: OK!
+ft_atoi.c: OK!
+ft_calloc.c: Error!
+Error: FORBIDDEN_CHAR_NAME  (line:  20, col:  21):	user defined identifiers should contain only lowercase characters, digits or '_'
+ft_strdup.c: OK!
+ft_substr.c: OK!
+ft_toupper.c: OK!
+ft_tolower.c: OK!
+ft_strrchr.c: OK!
+ft_strmapi.c: OK!
+ft_striteri.c: OK!
+ft_putstr_fd.c: OK!
+ft_putnbr_fd.c: OK!
+ft_strjoin.c: OK!
+ft_strtrim.c: OK!
+ft_split.c: OK!
+ft_itoa.c: OK!
+ft_putchar_fd.c: OK!
+ft_putendl_fd.c: OK!
+
+⠋ Executing: make fclean all (no bonus)⠙ Executing: make fclean all (no bonus)⠹ Executing: make fclean all (no bonus)⠸ Executing: make fclean all (no bonus)⠼ Executing: make fclean all (no bonus)⠴ Executing: make fclean all (no bonus)⠦ Executing: make fclean all (no bonus)⠧ Executing: make fclean all (no bonus)⠇ Executing: make fclean all (no bonus)⠏ Executing: make fclean all (no bonus)⠋ Executing: make fclean all (no bonus)⠙ Executing: make fclean all (no bonus)✔ Executing: make fclean all (no bonus)
+ℹ Executing: libft-war-machine (https://github.com/y3ll0w42/libft-war-machine)
+[1m[34m--------------------------------------------------------------------------------
+|[32GCOMPILING LIBFT[80G|
+--------------------------------------------------------------------------------
+[0mrules:
+all[12G$(NAME)[26Gfclean[39Gre[52Gclean[64Gbonus[74Glibft.a
+[32mok[0m[12G[32mok[0m[26G[32mok[0m[39G[32mok[0m[52G[32mok[0m[64G[31mmissing[0m[74G[32mfound
+[0m
+[1m[34mFUNCTION[18GTESTS[39GRESULT
+[0m[36mft_isalpha[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_isdigit[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_isalnum[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_isascii[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_isprint[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_strlen[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_memset[18G[32m✓[0m[32m✓[0m[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_bzero[18G[32m✓[0m[32m✓[0m[39G[32mOK
+[0m[36mft_memcpy
