@@ -39,6 +39,7 @@ cronを止める方法　>
 仮想マシンとは？　＞　
 debianとrockyの違いとは？　＞
 aptとaptitudeの違いとは？　＞
+APParmorとは？　＞　
 SSHとは？　＞
 UFW（FW）とは？　＞
 sudoとは？　＞

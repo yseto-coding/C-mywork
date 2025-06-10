@@ -7,16 +7,17 @@ SSHが機能していることを確認する方法　＞ sudo systemctl status 
 ユーザーが属しているグループを確認する方法　＞ sudo groups <username>
 ユーザーを作成する方法　＞ sudo adduser <username>
 グループを作成する方法　＞ sudo addgroup <groupname>
-ユーザーをグループに追加する方法　＞ sudo adduser <groupname> <username>
+ユーザーをグループに追加する方法　＞ sudo adduser <username> <groupname>
 パスワードポリシーを確認する方法　＞vim /etc/pam.d/common-password
 ホストネームを確認する方法　＞hostname
-ホストネームを変更する方法　＞sudo hostnamectl set-hostname newhostname
+ホストネームを変更する方法　＞sudo hostnamectl set-hostname <newhostname>
 仮想マシンのパーティションを確認する方法　＞lsblk
 --------------sudo--------------
 sudoがインストールされているか確認する方法　＞ which sudo
-新しいユーザーをsudoに追加する方法　＞sudo adduser sudo <username>
+新しいユーザーをsudoに追加する方法　＞sudo adduser <username> sudo
 sudoのルールの実装の確認をする方法　＞vim /etc/sudoers.d/sudo_config
-sudo policyの確認をする方法　＞　vim /etc/sudoers.d/sudo_config
+sudo policyの確認をする方法　＞　vim /etc/sudoers.d/sudo_config vim/etc/pam.d/common-password
+vim /etc/login.defs
 --------------UFW---------------
 UFWがインストールされているか確認する方法　＞ sudo syatemctl status ufw
 UFWが動作しているか確認する方法　＞ sudo ufw status
@@ -38,7 +39,8 @@ cronを止める方法　> sudo systemctl disable cron
 ------------description--------
 仮想マシンとは？　＞　virtual_machine.md
 debianとrockyの違いとは？　＞ debianはオープンソースのdebian系と呼ばれるOS、CentOSと呼ばれるOSの後継のOS。
-aptとaptitudeの違いとは？　＞どちらも共にDebian系Linuxで使われるパッケージ管理ツールである。aptitudeは依存関係の解決などに強く画面ベースの操作も可能。aptはより標準的でシンプルな操作が可能。
+aptとaptitudeの違いとは？　＞　どちらも共にDebian系Linuxで使われるパッケージ管理ツールである。aptitudeは依存関係の解決などに強く画面ベースの操作も可能。aptはより標準的でシンプルな操作が可能。
+APPArmorとは？　＞　
 SSHとは？　＞　SSH.md
 UFW（FW）とは？　＞ UFW.md
 sudoとは？　＞ sudo.md
